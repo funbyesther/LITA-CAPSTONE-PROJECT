@@ -4,7 +4,7 @@
 
 **Initial Data Eploration Using Pivot Tables**
 
-    *A. By Product*
+ *A. By Product*
     
 ![image](https://github.com/user-attachments/assets/e9bc8aac-b52a-4a97-810d-57ea2e8f37b9)
 
