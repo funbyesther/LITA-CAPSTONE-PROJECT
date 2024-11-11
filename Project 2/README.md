@@ -2,7 +2,7 @@
 
 **Analyzing customer data using pivot tables to find subscription patterns**
 
-    *Subscription Cancellation Trend*
+   *Subscription Cancellation Trend*
     
 ![image](https://github.com/user-attachments/assets/abdfecda-b7ed-45fc-93b6-181f5cb132ae)
 
