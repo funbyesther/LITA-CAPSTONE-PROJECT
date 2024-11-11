@@ -83,7 +83,15 @@ Formular for gettig average
 
 
 
+## SQL SECTION
+
+*Uploaded and available as* `Project 1 Queries.sql`
+
+
+
 ## POWER BI VISUALIZATION FOR PROJECT 1
+
+*File Also Uploaded and Available As a Single PBIX File for Both Project 1 and 2 in The Root Repo*
 
 ![image](https://github.com/user-attachments/assets/fa0b3208-5a75-427e-975a-f5e074870de2)
 
