@@ -79,6 +79,9 @@ Formular for gettig average
 
 
 
+## POWER BI VISUALIZATION FOR PROJECT 1
+
+![image](https://github.com/user-attachments/assets/fa0b3208-5a75-427e-975a-f5e074870de2)
 
 
 
