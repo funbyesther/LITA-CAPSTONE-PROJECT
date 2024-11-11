@@ -1,5 +1,8 @@
 # Project 1: Sales Performance Analysis for a Retail Store
+
+*Excel File Uploaded and Available as* `LITA+Capstone+Dataset.xlsx`
 **Initial Data Eploration Using Pivot Tables**
+
     *A. By Product*
     
 ![image](https://github.com/user-attachments/assets/e9bc8aac-b52a-4a97-810d-57ea2e8f37b9)
