@@ -29,9 +29,10 @@ subscription types**
 ## PowerBI Section
 *File Also Uploaded and Available As a Single PBIX File for Both Project 1 and 2 in The Root Repo*
 
-** POWER BI VISUALIZATION FOR PROJECT 2 **
+** POWER BI VISUALIZATION FOR PROJECT 2 (with Region as interactive Slicer)**
 
-![image](https://github.com/user-attachments/assets/368346e3-77ed-4669-bb62-ec12045a0c86)
+![image](https://github.com/user-attachments/assets/a9e0c8cb-9fe5-43d1-b680-34ffdf530883)
+
 
 
 
